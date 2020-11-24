@@ -14,7 +14,7 @@ if(isset($_GET["FirstName"])){//show feedback
  <form action="">
  <p>First Name <input type="text" name="FirstName" /></p>
  <p>Last Name <input type="text" name="LastName" /></p>
- <p>Favortite Color</p>
+ <p>Favorite Color</p>
  <p><input type="radio" name="FavoriteColor"value="red" /> Red</p>
  <p><input type="radio" name="FavoriteColor"value="blue" /> Blue</p>
  <p><input type="radio" name="FavoriteColor"value="yellow" /> Yellow/p>
